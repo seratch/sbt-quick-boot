@@ -1,0 +1,4 @@
+target
+.sbtconfig
+.sbt.ivy.lock
+0.13.*
