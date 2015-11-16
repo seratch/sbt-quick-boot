@@ -2,3 +2,4 @@ target
 .sbtconfig
 .sbt.ivy.lock
 0.13.*
+ivy2_cache_*.zip
