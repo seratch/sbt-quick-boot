@@ -2,7 +2,7 @@
 
 sbt_version=$1
 if [ "${sbt_version}" == "" ];then
-  sbt_version="0.13.10"
+  sbt_version="0.13.11"
 fi
 
 repo_base_url="https://github.com/seratch/sbt-quick-boot/releases/download/${sbt_version}/"
