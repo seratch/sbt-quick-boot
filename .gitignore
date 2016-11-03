@@ -3,3 +3,4 @@ target
 .sbt.ivy.lock
 0.13.*
 ivy2_cache_*.zip
+.DS_Store
